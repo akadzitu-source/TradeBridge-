@@ -1,0 +1,1 @@
+{\n  \"scripts\": {\n    \"dev\": \"node server.js\",\n    \"start\": \"node server.js\",\n    \"seed\": \"node seed.js\",\n    \"test\": \"mocha tests/\"\n  }\n}
